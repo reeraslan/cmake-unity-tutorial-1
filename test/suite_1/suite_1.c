@@ -22,6 +22,9 @@ int main(void)
 
     RUN_TEST(test_AverageThreeBytes_should_AverageMidRangeValues);
     RUN_TEST(test_AverageThreeBytes_should_AverageHighValues);
-
+    RUN_TEST(test_AverageThreeBytes_should_AverageMidRangeValues);
+    RUN_TEST(test_AverageThreeBytes_should_AverageHighValues);
+    RUN_TEST(test_AverageThreeBytes_should_AverageMidRangeValues);
+    RUN_TEST(test_AverageThreeBytes_should_AverageHighValues);
     return UNITY_END();
 }
